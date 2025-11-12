@@ -65,5 +65,3 @@
 </p>
 
 ---
-
-<h3 align="center" style="color:#8b949e;">💬 Thanks for visiting my profile!</h3>
