@@ -49,8 +49,8 @@
 <!-- STATS GRID -->
 <div align="center">
   <!-- ÜSTTE YAN YANA 2 KUTU -->
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=egesoysal&show_icons=true&locale=en&theme=tokyonight" height="100" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=egesoysal&theme=tokyonight" height="100" />
+  <div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=egesoysal&show_icons=true&locale=en&theme=tokyonight" height="200" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=egesoysal&theme=tokyonight" height="200" />
   </div>
 </div>
