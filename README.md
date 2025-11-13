@@ -1,10 +1,8 @@
-<h1 align="center" style="color:#8b949e;">Ege Soysal</h1>
-
-<p align="center" style="color:#c9d1d9;">
-Contact E-Mail: <strong>egesoysal0@gmail.com</strong>
-</p>
-
----
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F77931&width=1000&lines=Hi+I'm+Soysal" alt="Typing SVG" />
+  </a>
+</div>
 
 <h3 align="left" style="color:#58a6ff;">🌐 Connect with me:</h3>
 <p align="left">
@@ -41,8 +39,6 @@ Contact E-Mail: <strong>egesoysal0@gmail.com</strong>
 </p>
 
 ---
-
-<h3 align="center" style="color:#58a6ff;">📊 GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egesoysal&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="egesoysal" />
