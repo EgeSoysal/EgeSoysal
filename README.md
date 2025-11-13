@@ -47,20 +47,20 @@
 ---
 <!-- STATS GRID -->
 <div align="center">
-  <div style="display: flex; flex-direction: column; align-items: center; gap: 12px;">
-  <!-- Genel GitHub İstatistikleri -->
+  <!-- ÜST ÜSTE 2 KUTU -->
+  <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
+ <!-- Genel GitHub İstatistikleri -->
     <img 
       src="https://github-readme-stats.vercel.app/api?username=egesoysal&show_icons=true&locale=en&theme=tokyonight"
-      style="width: 600px; max-width: 90%; border-radius: 12px;" 
+      style="width: 500px; max-width: 90%; border-radius: 10px;" 
       alt="GitHub Stats"
     />
-    <!-- Commit Streak -->
+  <!-- Commit Streak -->
     <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=egesoysal&theme=tokyonight"
-      style="width: 600px; max-width: 90%; border-radius: 12px;" 
+      style="width: 500px; max-width: 90%; border-radius: 10px;" 
       alt="GitHub Streak"
     />
-
   </div>
 </div>
 
