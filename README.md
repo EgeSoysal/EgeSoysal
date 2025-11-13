@@ -1,12 +1,7 @@
-
-
-<h1 align="center" style="color:#58a6ff;">Hi, I'm Soysal </h1>
-<h3 align="center" style="color:#8b949e;">I'm a Software Development Student</h3>
-
----
+<h1 align="center" style="color:#8b949e;">Ege Soysal</h1>
 
 <p align="center" style="color:#c9d1d9;">
-📫 How to reach me: <strong>egesoysal0@gmail.com</strong>
+Contact E-Mail: <strong>egesoysal0@gmail.com</strong>
 </p>
 
 ---
