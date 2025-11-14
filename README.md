@@ -23,7 +23,7 @@
 
 ---
 
-<!-- LANGUAGES AND TOOLS -->
+<!-- languages_tools -->
 <h3 align="left" style="color:#58a6ff;">🧠 Languages and Tools:</h3>
 
 <p align="left">
@@ -45,17 +45,17 @@
 </p>
 
 ---
-<!-- STATS GRID -->
+<!-- stats_grid -->
 <div align="center">
-  <!-- ÜST ÜSTE 2 KUTU -->
+  <!-- up_up -->
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
- <!-- Genel GitHub İstatistikleri -->
+ <!-- generaly_GitHub_stats  -->
     <img 
       src="https://github-readme-stats.vercel.app/api?username=egesoysal&show_icons=true&locale=en&theme=tokyonight"
       style="width: 500px; max-width: 90%; border-radius: 10px;" 
       alt="GitHub Stats"
     />
-  <!-- Commit Streak -->
+  <!-- Commit_Streak -->
     <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=egesoysal&theme=tokyonight"
       style="width: 500px; max-width: 90%; border-radius: 10px;" 
