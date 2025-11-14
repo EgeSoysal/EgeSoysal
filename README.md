@@ -1,4 +1,4 @@
-<!-- TYPING SVG -->
+<!-- typing_svg -->
 <div align="center">
   <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F77931&width=1000&lines=Hi+I'm+Soysal" alt="Typing SVG" /> </a> 
 
@@ -6,7 +6,7 @@
 
 ---
 
-<!-- social linkss -->
+<!-- social_linkss -->
 <h3 align="left" style="color:#58a6ff;">🌐 Connect with me:</h3>
 
 <p align="left">
