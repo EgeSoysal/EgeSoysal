@@ -6,7 +6,7 @@
 
 ---
 
-<!-- SOCIAL LINKS -->
+<!-- social linkss -->
 <h3 align="left" style="color:#58a6ff;">🌐 Connect with me:</h3>
 
 <p align="left">
