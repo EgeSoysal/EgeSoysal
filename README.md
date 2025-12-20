@@ -69,12 +69,10 @@
       alt="GitHub Stats"
     />
   <!-- Commit_Streak -->
-   <img 
-  src="https://github-readme-streak-stats.vercel.app/?user=egesoysal&theme=highcontrast"
+  <img 
+  src="https://streak-stats.demolab.com/?user=egesoysal&theme=highcontrast"
   style="width: 500px; max-width: 90%; border-radius: 10px;" 
   alt="GitHub Streak"
-/>
-
-    
+/>    
   </div>
 </div>
