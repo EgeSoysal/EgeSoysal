@@ -69,12 +69,8 @@
       alt="GitHub Stats"
     />
   <!-- Commit_Streak -->
-<object
-  data="https://streak-stats.demolab.com?user=egesoysal&theme=highcontrast"
-  type="image/svg+xml"
-  width="500">
-</object>
-
-  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=egesoysal&theme=highcontrast" 
+  style="width: 500px; max-width: 90%; border-radius: 10px;" alt="GitHub Streak"
+  />
   </div>
 </div>
