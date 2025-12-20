@@ -69,13 +69,12 @@
       alt="GitHub Stats"
     />
   <!-- Commit_Streak -->
-<img
-  src="https://streak-stats.demolab.com?user=egesoysal&theme=highcontrast"
-  width="500"
-  style="max-width:90%; border-radius:10px;"
-  alt="GitHub Streak"
-  referrerpolicy="no-referrer"
-/>
+<object
+  data="https://streak-stats.demolab.com?user=egesoysal&theme=highcontrast"
+  type="image/svg+xml"
+  width="500">
+</object>
+
   
   </div>
 </div>
