@@ -69,7 +69,7 @@
       alt="GitHub Stats"
     />
   <!-- Commit_Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=egesoysal&theme=dark" 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=egesoysal&theme=cobalt" 
   style="width: 500px; max-width: 90%; border-radius: 10px;" alt="GitHub Streak"
   />
   </div>
