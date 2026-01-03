@@ -7,7 +7,7 @@
 ---
 
 <!-- social_linkss -->
-<h3 align="left" style="color:#58a6ff;">🌐 Connect with me:</h3>
+<h3 align="left" style="color:#58a6ff;">🌐 Connect:</h3>
 
 <p align="left">
   <a href="https://twitter.com/egeesoysal" target="blank">
@@ -24,7 +24,7 @@
 ---
 
 <!-- languages_tools -->
-<h3 align="left" style="color:#58a6ff;">🧠 Languages and Tools:</h3>
+<h3 align="left" style="color:#58a6ff;">🧠 Languages:</h3>
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -66,11 +66,11 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=egesoysal&show_icons=true&theme=dark"
       style="width: 500px; max-width: 90%; border-radius: 10px;" 
-      alt="GitHub Stats"
+      alt="GitHubStats"
     />
   <!-- Commit_Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=egesoysal&theme=highcontrast" 
-  style="width: 500px; max-width: 90%; border-radius: 10px;" alt="GitHub Streak"
+  style="width: 500px; max-width: 90%; border-radius: 10px;" alt="GitHubStreak"
   />
   </div>
 </div>
