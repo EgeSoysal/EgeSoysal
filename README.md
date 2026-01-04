@@ -64,7 +64,7 @@
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
      <!-- generaly_GitHub_stats  -->
     <img 
-      src="https://github-readme-stats.herokuapp.com/?user=egesoysal&icons=true&theme=dark"
+      src="https://github-readme-stats.herokuapp.com/?user=egesoysal&theme=dark"
       style="width: 500px; max-width: 90%; border-radius: 10px;" 
       alt="GitHub_Stats"
     />
