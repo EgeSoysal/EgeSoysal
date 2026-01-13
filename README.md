@@ -1,4 +1,4 @@
-<!-- typing_svg: Hi Im Soysal Code Write With Svg Files-->
+<!-- typing_svg:  Im Soysal Code Write With Svg Files-->
 <div align="center">
   <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F77931&width=1000&lines=Hi+I'm+Soysal" alt="Typing SVG" /> </a> 
 
