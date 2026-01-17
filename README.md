@@ -10,13 +10,13 @@
 <h3 align="left" style="color:#58a6ff;">🌐 Connect:</h3>
 
 <p align="left">
-  <a href="https://twitter.com/egeesoysal" target="blank">
+  <a href="https://twitter.com/egeesoysal" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="egeesoysal" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/soysalege" target="blank">
+  <a href="https://linkedin.com/in/soysalege" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soysalege" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/egesoysals" target="blank">
+  <a href="https://instagram.com/egesoysals" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="egesoysals" height="30" width="40" />
   </a>
 </p>
@@ -71,7 +71,7 @@
       /> 
     <!-- Commit_Streak --> 
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=egesoysal&theme=dark"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=egesoysal&theme=highcontrast"
       style="width: 500px; max-width: 90%; border-radius: 
         10px;" alt=
       "GitHub_Streak" 
