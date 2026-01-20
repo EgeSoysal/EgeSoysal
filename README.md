@@ -1,13 +1,13 @@
 <!-- typing_svg: Hi Im Soysal Code Write With Svg Files-->
 <div align="center">
-  <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F77931&width=1000&lines=Hi+I'm+Soysal" alt="Typing SVG" /> </a> 
+  <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F77931&width=1000&lines=Hi+I'm+Soysal" alt="Typing SVG"/> </a> 
 
 </div>
 
 ---
 
 <!-- social_linkss -->
-<h2 align="left" style="color:#58a6ff;">🌐 Connect:</h2>
+<h3 align="left" style="color:#58a6ff;">🌐 Connect:</h3>
 
 <p align="left">
   <a href="https://twitter.com/egeesoysal" target="_blank">
@@ -24,7 +24,7 @@
 ---
 
 <!-- languages_tools -->
-<h2 align="left" style="color:#58a6ff;">🧠 Languages:</h2>
+<h3 align="left" style="color:#58a6ff;">🧩 Languages:</h3>
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
