@@ -7,7 +7,7 @@
 ---
 
 <!-- social_linkss -->
-<h3 align="left" style="color:#58a6ff;">🌐 Connect:</h3>
+<h2 align="left" style="color:#58a6ff;">🌐 Connect:</h2>
 
 <p align="left">
   <a href="https://twitter.com/egeesoysal" target="_blank">
@@ -24,7 +24,7 @@
 ---
 
 <!-- languages_tools -->
-<h3 align="left" style="color:#58a6ff;">🧠 Languages:</h3>
+<h2 align="left" style="color:#58a6ff;">🧠 Languages:</h2>
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
