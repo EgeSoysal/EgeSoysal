@@ -67,7 +67,7 @@
       src="https://github-readme-stats.vercel.app/api?username=egesoysal&show_icons=true&theme=dark" 
       style="width: 500px; max-width: 90%; border-radius:
         10px;" alt=
-      "GitHubStats" 
+      "GitHub_Stats" 
       /> 
     <!-- alt alt Commit_Streak --> 
     <img 
