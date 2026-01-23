@@ -69,7 +69,7 @@
         10px;" alt=
       "GitHubStats" 
       /> 
-    <!-- Commit_Streak --> 
+    <!-- alt alt Commit_Streak --> 
     <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=egesoysal&theme=highcontrast"
       style="width: 500px; max-width: 90%; border-radius: 
