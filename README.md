@@ -62,7 +62,7 @@
 <div align="center">
   <!-- up_up -->
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
-     <!-- generaly_GitHub_stats  -->
+     <!-- generaly_GitHubstats  -->
     <img 
       src="https://github-readme-stats.vercel.app/api?username=egesoysal&show_icons=true&theme=dark" 
       style="width: 500px; max-width: 90%; border-radius:
