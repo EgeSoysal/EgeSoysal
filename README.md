@@ -23,7 +23,7 @@
 
 ---
 
-<!-- languages_tools -->
+<!-- languages_tools:sware -->
 <h3 align="left" style="color:#58a6ff;">🧩 Languages:</h3>
 
 <p align="left">
