@@ -23,7 +23,7 @@
 ---
 
 <!-- languages_tools:sware -->
-<h3 align="left" style="color:#58a6ff;">🧩 Languages:</h3>
+<h3 align="left" style="color:#58a6ff;">🧩 Languages & Tools :</h3>
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -56,6 +56,8 @@
   </a>
 </p>
 
+
+
 ---
 <!-- stats_grid -->
 <div align="center">
@@ -70,10 +72,42 @@
       /> 
     <!-- alt alt Commit_Streak --> 
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=egesoysal&theme=highcontrast"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=EgeSoysal&theme=highcontrast"
       style="width: 500px; max-width: 90%; border-radius: 
         10px;" alt=
       "GitHub_Streak" 
       />
   </div>
 </div>
+
+[![](https://visitcount.itsvg.in/api?id=EgeSoysal&icon=0&color=7)](https://visitcount.itsvg.in)
+
+![](https://github-readme-stats.vercel.app/api?username=EgeSoysal&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=EgeSoysal&theme=dark&hide_border=false)<br/> -->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EgeSoysal&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+<!--
+_
+
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
+![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+
+![](https://github-readme-stats.vercel.app/api?username=EgeSoysal&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=EgeSoysal&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=EgeSoysal&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=EgeSoysal&theme=default&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=EgeSoysal&icon=0&color=7)](https://visitcount.itsvg.in)
+
