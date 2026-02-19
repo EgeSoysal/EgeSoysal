@@ -86,7 +86,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=EgeSoysal&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
 
 
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=EgeSoysal&theme=dark&hide_border=false)<br/> -->
