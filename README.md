@@ -84,6 +84,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=EgeSoysal&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
+![](https://github-profile-trophy.vercel.app/?username=EgeSoysal&theme=default&no-frame=true&no-bg=true&margin-w=4)
+
+
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=EgeSoysal&theme=dark&hide_border=false)<br/> -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EgeSoysal&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
