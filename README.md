@@ -85,7 +85,7 @@
       />
     
   <img
-   align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egesoysal&show_icons=true&locale=en&layout=compact" 
+   align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egesoysal&show_icons=true&locale=en&layout=compact"
    alt=
    "Errored Data" 
    />
