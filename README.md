@@ -3,6 +3,8 @@
   <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F77931&width=1000&lines=Hi+I'm+Soysal" alt="Typing SVG"/> </a> 
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=egesoysal&label=Profile%20views&color=cf5e19&style=flat" alt="egesoysal" /> </p>
+
 ---
 
 <!-- social_linkss -->
@@ -46,13 +48,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 
-  <!-- ++ -->
-
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
 
-   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="42"/> 
+   </a> 
+
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a> 
   
@@ -79,45 +83,22 @@
         10px;" alt=
       "GitHub_Streak" 
       />
+    
+  <img
+   align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egesoysal&show_icons=true&locale=en&layout=compact" 
+   alt=
+   "Errored Data" 
+   />
+
+  <img 
+    align="left" src="https://github-readme-stats.vercel.app/api?username=egesoysal&show_icons=true&locale=en" 
+    alt=
+    "Errored Data"
+    />
+
+    
   </div>
 </div>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=egesoysal&label=Profile%20views&color=0e75b6&style=flat" alt="egesoysal" /> </p>
-
-#A
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egesoysal" alt="egesoysal" /></a> </p>
-
-#A 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  
-  
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a>
-  
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egesoysal&show_icons=true&locale=en&layout=compact" alt="egesoysal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egesoysal&show_icons=true&locale=en" alt="egesoysal" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egesoysal&" alt="egesoysal" /></p>
-
-
-
-
-
-
 
 
 [![](https://visitcount.itsvg.in/api?id=EgeSoysal&icon=0&color=7)](https://visitcount.itsvg.in)
@@ -125,8 +106,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=EgeSoysal&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-profile-trophy.vercel.app/?username=EgeSoysal&theme=default&no-frame=true&no-bg=true&margin-w=4)
-
-
 
 
 <!-- ![](https://nirzak-streak-stats.vercel.app/?user=EgeSoysal&theme=dark&hide_border=false)<br/> -->
