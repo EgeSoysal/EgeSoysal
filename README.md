@@ -8,7 +8,7 @@
 ---
 
 <!-- social_linkss -->
-<h3 align="left" style="color:#58a6ff;">🌐 Connect:</h3>
+<h3 align="left" style="color:#58a6ff;">🌐Connect:</h3>
 
 <p align="left">
   <a href="https://twitter.com/egeesoysal" target="_blank">
@@ -25,7 +25,7 @@
 ---
 
 <!-- languages_tools:sware -->
-<h3 align="left" style="color:#58a6ff;">🧩 Languages & Tools :</h3>
+<h3 align="left" style="color:#58a6ff;">🧩Languages & Tools :</h3>
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
