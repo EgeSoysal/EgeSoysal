@@ -88,8 +88,8 @@
    <!-- <img
    align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egesoysal&show_icons=true&locale=en&layout=compact"
    alt=
-   "Errored Data" -->
-   />
+   "Errored Data" 
+   /> -->
    
    <!-- <img 
     align="left" src="https://github-readme-stats.vercel.app/api?username=egesoysal&show_icons=true&locale=en" 
@@ -106,10 +106,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=EgeSoysal&theme=default&no-frame=true&no-bg=true&margin-w=4)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EgeSoysal&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
- -->
+
 
   </div>
-</div>
+</div>  -->
 
 
 
