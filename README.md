@@ -81,8 +81,8 @@
       src="https://github-readme-streak-stats.herokuapp.com/?user=EgeSoysal&theme=dark"
       style="width: 500px; max-width: 90%; border-radius: 
         10px;" alt=
-      "GitHub_Streak" 
-      />
+      "GitHub_Streak"  
+      /> <!-- highcontrast -->
 
     
    <!-- <img
