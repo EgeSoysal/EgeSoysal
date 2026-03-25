@@ -71,14 +71,14 @@
   <div style="display: flex; flex-direction: column; align-items: center; gap: 15px;">
      <!-- generaly_GitHub_stats  -->
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=EgeSoysal&show_icons=true&theme=whitecontrast"
+      src="https://github-readme-stats.vercel.app/api?username=EgeSoysal&show_icons=true&theme=highcontrast"
       style="width: 500px; max-width: 90%; border-radius:
         10px;" alt=
       "GitHub_Stats" 
       /> 
     <!-- alt alt Commit_Streak --> 
     <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=EgeSoysal&theme=whitecontrast"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=EgeSoysal&theme=lowcontrast"
       style="width: 500px; max-width: 90%; border-radius: 
         10px;" alt=
       "GitHub_Streak"  
