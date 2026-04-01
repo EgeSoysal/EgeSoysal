@@ -21,6 +21,10 @@
   <a href="https://instagram.com/egesoysals" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="egesoysals" height="30" width="40"/>
   </a>
+
+ <a href="https://www.credly.com/users/ege-soysal.ff06f6e8" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white" alt="credly" height="30"/>
+</a>
 </p>
 
 
