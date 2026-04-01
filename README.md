@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=egesoysal&label=Profile%20views&color=cf5e19&style=flat" alt="egesoysal" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=egesoysal&label=Profile%20views&color=cf5e19&style=flat" alt="egesoysal" /> </p> -->
 
 <!-- typing_svg: Hi Im Soysal Code Write With Svg Files-->
 <div align="center">
@@ -11,6 +11,10 @@
 
 ## 🌐Connect:
 
+<a href="egesoysal0@gmail.com" target="_blank" style="text-decoration:none;">
+  <img align="center" src="https://img.shields.io/badge/My Mail-EA4335?style=flat&logo=gmail&logoColor=white" alt="soysalege" height="30"/>
+</a>
+
 <a href="https://linkedin.com/in/soysalege" target="_blank" style="text-decoration:none;">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="soysalege" height="30"/>
 </a>
@@ -20,18 +24,38 @@
 </a>
 
 <a href="https://instagram.com/egesoysals" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="egesoysals" height="30"/>
+</a>
+
+<a href="https://instagram.com/egesoysals" target="_blank">
   <img align="center" src="https://img.shields.io/badge/instagram-FF0069?style=flat&logo=instagram&logoColor=white" alt="egesoysals" height="30"/>
+</a>
+
+<a href="https://stackoverflow.com/users/32527093/ege-soysal" target="_blank" style="text-decoration:none;">
+  <img align="center" src="https://img.shields.io/badge/Stack Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" alt="soysalege" height="30"/>
 </a>
 
 <a href="https://www.credly.com/users/ege-soysal.ff06f6e8" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white" alt="credly" height="30"/>
 </a>
 
+
+
+<a href="https://kommunity.com/@egesoysal" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Kommunity-eddb3d?style=flat&logo=known&logoColor=white" alt="credly" height="30"/>
+</a>
+
+<a href="https://https://www.chess.com/member/egains" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Chess.com-81B64C?style=flat&logo=chessdotcom&logoColor=white" alt="credly" height="30"/>
+</a>
+
 <a href="https://www.credly.com/users/ege-soysal.ff06f6e8" target="_blank">
   <img align="center" src="https://img.shields.io/badge/My Discord Dev Comminty-5865F2?style=flat&logo=discord&logoColor=white" alt="credly" height="30"/>
 </a>
 
-discord
+
+
+
 </a>
 </p>
 
@@ -78,7 +102,17 @@ discord
 <a href="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="egesoysals" height="30"/>
 </a>
+
+
+---
+
+<a href="https://linkedin.com/in/soysalege" target="_blank" style="text-decoration:none;">
+  
+  <img align="center" src="https://img.shields.io/badge/Update Time:-01:04:2026-cf5e19?style=flat&logo=&logoColor=white" alt="soysalege" height="30"/>
+</a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=egesoysal&label=Profile%20Views:&color=cf5e19&style=flat" alt="egesoysal" /> </p>
+
 
 <!-- stats_grid -->
 <div align="center">
