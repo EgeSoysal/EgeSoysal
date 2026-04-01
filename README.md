@@ -61,9 +61,6 @@
   </a> 
   
 </p>
-
-
-
 ---
 <!-- stats_grid -->
 <div align="center">
@@ -82,10 +79,12 @@
       style="width: 500px; max-width: 90%; border-radius: 
         10px;" alt=
       "GitHub_Streak"  
-      /> <!-- highcontrast -->
-
-      <!-- Ayrı -->
-
+      />
+<img src="https://streak-stats.demolab.com/?user=EgeSoysal&theme=dark" style="width: 500px; max-width: 90%; border-radius:10px;"alt="GitHub_Streak" />
+      
+<img 
+src="https://github-readme-streak-stats.herokuapp.com/?user=EgeSoysal&theme=dark"
+style="width: 
     
    <!-- <img
    align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egesoysal&show_icons=true&locale=en&layout=compact"
