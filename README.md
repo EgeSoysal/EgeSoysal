@@ -21,9 +21,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="egesoysals" height="30" width="40"/>
   </a>
 </p>
-
----
-
 <!-- languages_tools:sware -->
 <h3 align="left" style="color:#58a6ff;">🧩Languages & Tools :</h3>
 
@@ -58,8 +55,7 @@
 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
-  </a> 
-  
+  </a>  
 </p>
 ---
 <!-- stats_grid -->
@@ -71,20 +67,26 @@
       src="https://github-readme-stats.vercel.app/api?username=EgeSoysal&show_icons=true&theme=dark"
       style="width: 500px; max-width: 90%; border-radius:
         10px;" alt=
-      "GitHub_Stats" 
-      /> 
+      "GitHub_Stats"/> 
     <!-- alt alt Commit_Streak --> 
     <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=EgeSoysal&theme=dark"
       style="width: 500px; max-width: 90%; border-radius: 
         10px;" alt=
-      "GitHub_Streak"  
-      />
-<img src="https://streak-stats.demolab.com/?user=EgeSoysal&theme=dark" style="width: 500px; max-width: 90%; border-radius:10px;"alt="GitHub_Streak" />
-      
+      "GitHub_Streak"/>
+
+  <img 
+  src="https://github-readme-stats.vercel.app/api?username=EgeSoysal&show_icons=true&theme=dark"
+  style="width: 500px; max-width: 90%; border-radius: 10px;" 
+  alt="GitHub_Stats"
+/> 
+
 <img 
-src="https://github-readme-streak-stats.herokuapp.com/?user=EgeSoysal&theme=dark"
-style="width: 
+  src="https://streak-stats.demolab.com/?user=EgeSoysal&theme=dark"
+  style="width: 500px; max-width: 90%; border-radius: 10px;" 
+  alt="GitHub_Streak"
+/>
+
     
    <!-- <img
    align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egesoysal&show_icons=true&locale=en&layout=compact"
