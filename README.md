@@ -5,14 +5,11 @@
   <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F77931&width=1000&lines=Hi+I'm+Soysal" alt="Typing SVG"/> </a> 
 </div>
 
----
-
 
 <!-- social_linkss -->
 <!-- <h3 align="left" style="color:#58a6ff;">🌐Connect:</h3> -->
 
-### 🌐Connect:
----
+## 🌐Connect:
 
 <p align="left">
   <a href="https://twitter.com/egeesoysal" target="_blank">
@@ -27,10 +24,13 @@
 </p>
 
 
-<!-- languages_tools:sware -->
-<h3 align="left" style="color:#58a6ff;">🧩Languages & Tools :</h3>
 
----
+<!-- languages_tools:sware -->
+<!-- <h3 align="left" style="color:#58a6ff;">🧩Languages & Tools :</h3> -->
+
+
+
+## 🧩Languages & Tools :
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
