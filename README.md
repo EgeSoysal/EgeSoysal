@@ -11,12 +11,12 @@
 
 ## 🌐Connect:
 
-<a href="https://twitter.com/egeesoysal" target="_blank" style="text-decoration:none;">
-  <img align="center" src="https://img.shields.io/badge/Twitter-x-808080?style=flat&logo=twitter&logoColor=white" alt="egeesoysal" height="30"/>
-</a>
-
 <a href="https://linkedin.com/in/soysalege" target="_blank" style="text-decoration:none;">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="soysalege" height="30"/>
+</a>
+
+<a href="https://twitter.com/egeesoysal" target="_blank" style="text-decoration:none;">
+  <img align="center" src="https://img.shields.io/badge/Twitter-808080?style=flat&logo=x&logoColor=white" alt="egeesoysal" height="30"/>
 </a>
 
 <a href="https://instagram.com/egesoysals" target="_blank">
@@ -26,6 +26,12 @@
 <a href="https://www.credly.com/users/ege-soysal.ff06f6e8" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Credly-FF6B00?style=flat&logo=credly&logoColor=white" alt="credly" height="30"/>
 </a>
+
+<a href="https://www.credly.com/users/ege-soysal.ff06f6e8" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/My Discord Dev Comminty-5865F2?style=flat&logo=discord&logoColor=white" alt="credly" height="30"/>
+</a>
+
+discord
 </a>
 </p>
 
@@ -67,6 +73,10 @@
 
 <a href="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/blender-E87D0D?style=flat&logo=blender&logoColor=white" alt="egesoysals" height="30"/>
+</a>
+
+<a href="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="egesoysals" height="30"/>
 </a>
 </p>
 
