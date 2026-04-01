@@ -1,12 +1,18 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=egesoysal&label=Profile%20views&color=cf5e19&style=flat" alt="egesoysal" /> </p>
+
 <!-- typing_svg: Hi Im Soysal Code Write With Svg Files-->
 <div align="center">
   <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F77931&width=1000&lines=Hi+I'm+Soysal" alt="Typing SVG"/> </a> 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=egesoysal&label=Profile%20views&color=cf5e19&style=flat" alt="egesoysal" /> </p>
+---
+
 
 <!-- social_linkss -->
-<h3 align="left" style="color:#58a6ff;">🌐Connect:</h3>
+<!-- <h3 align="left" style="color:#58a6ff;">🌐Connect:</h3> -->
+
+### 🌐Connect:
+---
 
 <p align="left">
   <a href="https://twitter.com/egeesoysal" target="_blank">
@@ -20,8 +26,11 @@
   </a>
 </p>
 
+
 <!-- languages_tools:sware -->
 <h3 align="left" style="color:#58a6ff;">🧩Languages & Tools :</h3>
+
+---
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -67,3 +76,4 @@
     />
   </div>
 </div>
+
