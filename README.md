@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egesoysal&label=Profile%20views&color=cf5e19&style=flat" alt="egesoysal" /> </p>
 
----
-
 <!-- social_linkss -->
 <h3 align="left" style="color:#58a6ff;">🌐Connect:</h3>
 
