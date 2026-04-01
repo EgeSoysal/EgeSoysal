@@ -55,7 +55,6 @@
    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
   </a>  
 </p>
----
 <!-- stats_grid -->
 <div align="center">
   <!-- up_up -->
@@ -71,20 +70,7 @@
       src="https://github-readme-streak-stats.herokuapp.com/?user=EgeSoysal&theme=dark"
       style="width: 500px; max-width: 90%; border-radius: 
         10px;" alt=
-      "GitHub_Streak"/>
-
-  <img 
-  src="https://github-readme-stats.vercel.app/api?username=EgeSoysal&show_icons=true&theme=dark"
-  style="width: 500px; max-width: 90%; border-radius: 10px;" 
-  alt="GitHub_Stats"
-/> 
-
-<img 
-  src="https://streak-stats.demolab.com/?user=EgeSoysal&theme=dark"
-  style="width: 500px; max-width: 90%; border-radius: 10px;" 
-  alt="GitHub_Streak"
-/>
-
+      "GitHub_Streak"
     
    <!-- <img
    align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egesoysal&show_icons=true&locale=en&layout=compact"
