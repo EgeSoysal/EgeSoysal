@@ -49,7 +49,7 @@
   <img align="center" src="https://img.shields.io/badge/Chess.com-81B64C?style=flat&logo=chessdotcom&logoColor=white" alt="credly" height="30"/>
 </a>
 
-<a href="https://www.credly.com/users/ege-soysal.ff06f6e8" target="_blank">
+<a href="https://discord.gg/YzHn3byBpM" target="_blank">
   <img align="center" src="https://img.shields.io/badge/My Discord Dev Comminty-5865F2?style=flat&logo=discord&logoColor=white" alt="credly" height="30"/>
 </a>
 
