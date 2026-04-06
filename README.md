@@ -23,7 +23,7 @@
   <img align="center" src="https://img.shields.io/badge/Twitter-808080?style=flat&logo=x&logoColor=white" alt="egeesoysal" height="30"/>
 </a>
 
-<a href="https://instagram.com/egesoysals" target="_blank">
+<a href="https://egesoysal.medium.com/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white" alt="egesoysals" height="30"/>
 </a>
 
