@@ -83,9 +83,9 @@
 <img align="center" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=CSS&logoColor=white" alt="egesoysals" height="30"/>
 </a>
 
-<a href="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+<!-- <a href="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="egesoysals" height="30"/>
-</a>
+</a> -->
 
 <a href="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/JavaScript-edb100?style=flat&logo=javascript&logoColor=white" alt="egesoysals" height="30"/>
