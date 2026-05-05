@@ -67,12 +67,12 @@
 
 
 ## 🧩Languages & Tools :
-<a href="https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="egesoysals" height="30"/>
+<a href="https://img.shields.io/badge/-C++-d1ce1b?style=flat&logo=cplusplus&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/C++-d1ce1b?style=flat&logo=cplusplus&logoColor=white" alt="egesoysals" height="30"/>
 </a>
 
 <a href="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=cplusplus&logoColor=white">
-<img align="center" src="https://img.shields.io/badge/flutter-00599C?style=flat&logo=flutter&logoColor=white" alt="egesoysals" height="30"/>
+<img align="center" src="https://img.shields.io/badge/flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="egesoysals" height="30"/>
 </a>
 
 
