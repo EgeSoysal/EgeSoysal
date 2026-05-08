@@ -130,7 +130,7 @@
     />
     <!-- alt alt Commit_Streak -->
     <img 
-      src="https://streak-stats.demolab.com/?user=EgeSoysal&theme=highcontrast"
+      src="https://streak-stats.demolab.com/?user=EgeSoysal&theme=dark"
       style="width: 500px; max-width: 90%; border-radius: 10px;" 
       alt="GitHub_Streak"
     />
