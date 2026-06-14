@@ -125,7 +125,7 @@
 
 <a href="https://linkedin.com/in/soysalege" target="_blank" style="text-decoration:none;">
   
-  <img align="center" src="https://img.shields.io/badge/Update Time:-13 May 2026-cf5e19?style=flat&logo=&logoColor=white" alt="soysalege" height="30"/>
+  <img align="center" src="https://img.shields.io/badge/Update Time:-13 Jun 2026-cf5e19?style=flat&logo=&logoColor=white" alt="soysalege" height="30"/>
 </a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egesoysal&label=Profile%20Views:&color=cf5e19&style=flat" alt="egesoysal" /> </p>
@@ -142,7 +142,7 @@
 />
     <!-- alt alt Commit_Streak -->
     <img 
-      src="https://streak-stats.demolab.com/?user=EgeSoysal&theme=dark"
+      src="https://streak-stats.demolab.com/?user=EgeSoysal&theme=highcontrast"
       style="width: 500px; max-width: 90%; border-radius: 10px;" 
       alt="GitHub_Streak"
     />
