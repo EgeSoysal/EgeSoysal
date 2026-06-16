@@ -147,23 +147,6 @@
       alt="GitHub_Streak"
     />
 
-    <!--
-    <img 
-      src="https://streak-stats.demolab.com/?user=EgeSoysal&theme=dark"
-      style="width: 500px; max-width: 90%; border-radius: 10px;" 
-      alt="GitHub_Streak"
-    />
-    <img 
-      src="https://streak-stats.demolab.com/?user=EgeSoysal&theme=dark"
-      style="width: 500px; max-width: 90%; border-radius: 10px;" 
-      alt="GitHub_Streak"
-    />
-    <img 
-      src="https://streak-stats.demolab.com/?user=EgeSoysal&theme=dark"
-      style="width: 500px; max-width: 90%; border-radius: 10px;" 
-      alt="GitHub_Streak"
-    />
-    -->
   </div>
 </div>
 
