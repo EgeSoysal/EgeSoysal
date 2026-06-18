@@ -28,7 +28,7 @@
 </a>
 
 <a href="https://instagram.com/egesoysals" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/instagram-FF0069?style=flat&logo=instagram&logoColor=white" alt="egesoysals" height="30"/>
+  <img align="center" src="https://img.shields.io/badge/Instagram-FF0069?style=flat&logo=instagram&logoColor=white" alt="egesoysals" height="30"/>
 </a>
 
 <a href="https://stackoverflow.com/users/32527093/ege-soysal" target="_blank" style="text-decoration:none;">
