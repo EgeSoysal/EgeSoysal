@@ -76,10 +76,6 @@
 <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="egesoysals" height="30"/>
 </a>
 
-<!--PHP Laravel libs-->
-<!-- -->
-
-
 
 <a href="https://img.shields.io/badge/-C++-790094?style=flat&logo=cplusplus&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/C++-790094?style=flat&logo=cplusplus&logoColor=white" alt="egesoysals" height="30"/>
@@ -88,6 +84,14 @@
 
   <a href="https://img.shields.io/badge/-C#-00599C?style=flat&logo=cplusplus&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/C%23-239120?style=flat&logo=cplusplus&logoColor=white" alt="egesoysals" height="30"/>
+</a>
+
+<a href="https://img.shields.io/badge/-php-777BB4?style=flat&logo=php&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="egesoysals" height="30"/>
+</a>
+
+<a href="https://img.shields.io/badge/-laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="egesoysals" height="30"/>
 </a>
 
 <a href="https://img.shields.io/badge/-CSS-663399?style=flat&logo=cplusplus&logoColor=white">
@@ -126,9 +130,11 @@
 <a href="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
 <img align="center" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="egesoysals" height="30"/>
 </a>
-<!--MySQL-->
-<!--SQL Lite-->
 
+
+<a href="https://img.shields.io/badge/sqlite-003B57?style=flat&logo=sqlite&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="egesoysals" height="30"/>
+</a>
 
 ---
 
