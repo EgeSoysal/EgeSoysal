@@ -76,6 +76,9 @@
 <img align="center" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="egesoysals" height="30"/>
 </a>
 
+<!--PHP Laravel libs-->
+<!-- -->
+
 
 
 <a href="https://img.shields.io/badge/-C++-790094?style=flat&logo=cplusplus&logoColor=white">
@@ -119,6 +122,12 @@
 <img align="center" src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white" alt="egesoysals" height="30"/>
 </a>
 
+
+<a href="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+<img align="center" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="egesoysals" height="30"/>
+</a>
+<!--MySQL-->
+<!--SQL Lite-->
 
 
 ---
