@@ -163,9 +163,23 @@
 
 <div align="center"><img width="49%" src="https://github-stats-extended.vercel.app/api?username=EgeSoysal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F77931&icon_color=F77931&text_color=C9D1D9&ring_color=F77931&border_radius=12" alt="Ege Soysal GitHub Statistics"><img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=EgeSoysal&layout=compact&langs_count=8&card_width=495&hide_border=true&bg_color=0D1117&title_color=F77931&text_color=C9D1D9&border_radius=12" alt="Ege Soysal Most Used Languages"></div>
 
+##
+<br>
+<div align="center">
+  <img
+    width="98%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=EgeSoysal&bg_color=0D1117&color=C9D1D9&title_color=F77931&line=F77931&point=F77931&area=true&area_color=F77931&hide_border=true&radius=12&custom_title=Contribution%20Activity"
+    alt="Ege Soysal Contribution Activity"
+  >
+</div>
+
+
+
 
 <!-- ====================================================== -->
 <!--                         FOOTER                         -->
 <!-- ====================================================== -->
 
 <br>
+
+
