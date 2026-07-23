@@ -21,11 +21,11 @@
     height="24"
   >
   &nbsp;
-  <img
-    src="https://img.shields.io/github/last-commit/EgeSoysal/EgeSoysal?label=Last%20Update&style=flat&color=cf5e19"
-    alt="Last Update"
-    height="24"
-  >
+ <img
+  src="https://img.shields.io/badge/Last%20Update-20%20Jul%202026-cf5e19?style=flat"
+  alt="Last Update: 20 Jul 2026"
+  height="24"
+/>
 </p>
 
 
