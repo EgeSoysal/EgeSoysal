@@ -24,7 +24,7 @@
   &nbsp;
  <img
   src="https://img.shields.io/badge/Last%20Update-20%20Jul%202026-cf5e19?style=flat"
-  alt="Last Update: 20 Jul 2026"
+  alt="Last Update: 27 Jul 2026"
   height="24"
 />
 </p>
@@ -153,7 +153,7 @@
 
 ### 🤖 GenAI & Development Tools
 
-<p align="left"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="30">&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="30">&nbsp;<img src="https://img.shields.io/badge/OpenAI Codex-2b2b2b?style=flat&logo=codewars&logoColor=white" alt="Codex" height="30">&nbsp;<img src="https://img.shields.io/badge/Claude-DE7356?style=flat&logo=anthropic&logoColor=white" alt="Claude" height="30">&nbsp;<img src="https://img.shields.io/badge/GitHub Copilot-363636?style=flat&logo=githubcopilot&logoColor=white" alt="Git" height="30"></p>
+<p align="left"><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" height="30">&nbsp;<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="30">&nbsp;<img src="https://img.shields.io/badge/OpenAI Codex-2b2b2b?style=flat&logo=codewars&logoColor=white" alt="Codex" height="30">&nbsp;<img src="https://img.shields.io/badge/Claude Code-DE7356?style=flat&logo=anthropic&logoColor=white" alt="Claude" height="30">&nbsp;<img src="https://img.shields.io/badge/GitHub Copilot-363636?style=flat&logo=githubcopilot&logoColor=white" alt="Git" height="30"></p>
 <!-------------------------------------------------------------------------------------------------------------------->
 
 <!--GitHub Stats-->
