@@ -168,7 +168,7 @@
 <div align="center">
   <img
     width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EgeSoysal&bg_color=0D1117&color=C9D1D9&title_color=F77931&line=F77931&point=F77931&area=true&area_color=F77931&hide_border=true&radius=12&custom_title=Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=egesoysal&bg_color=0D1117&color=C9D1D9&title_color=F77931&line=F77931&point=F77931&area=true&area_color=F77931&hide_border=true&radius=12&custom_title=Contribution%20Activity"
     alt="Ege Soysal Contribution Activity"
   >
 </div>
