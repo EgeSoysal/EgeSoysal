@@ -161,7 +161,7 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center"><img width="49%" src="https://github-stats-extended.vercel.app/api?username=EgeSoysal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F77931&icon_color=F77931&text_color=C9D1D9&ring_color=F77931&border_radius=12" alt="Ege Soysal GitHub Statistics"><img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=EgeSoysal&layout=compact&langs_count=8&card_width=495&hide_border=true&bg_color=0D1117&title_color=F77931&text_color=C9D1D9&border_radius=12" alt="Ege Soysal Most Used Languages"></div>
+<div align="center"><img width="49%" src="https://github-stats-extended.vercel.app/api?username=egesoysal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F77931&icon_color=F77931&text_color=C9D1D9&ring_color=F77931&border_radius=12" alt="Ege Soysal GitHub Statistics"><img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs?username=EgeSoysal&layout=compact&langs_count=8&card_width=495&hide_border=true&bg_color=0D1117&title_color=F77931&text_color=C9D1D9&border_radius=12" alt="Ege Soysal Most Used Languages"></div>
 
 ###
 <br>
