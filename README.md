@@ -122,21 +122,26 @@
 <hr>
 
 ### ⚙️ Backend Development
-<p align="left"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" height="30">&nbsp;<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" height="30">&nbsp;<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=cplusplus&logoColor=white" alt="C#" height="30"></p>
+<p align="left"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP" height="30">&nbsp;<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel" height="30">&nbsp;<img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=cplusplus&logoColor=white" alt="C#" height="30">&nbsp;<img src="https://img.shields.io/badge/Go%20(Golang)-00ADD8?style=flat&logo=go&logoColor=white" alt="Go (Golang)" height="30">&nbsp;<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" height="30">&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js" height="30">&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="30"></p>
 <!-------------------------------------------------------------------------------------------------------------------->
 
 <!--Frontend-->
 <hr>
 
 ### 🌐 Frontend Development
-<p align="left"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="30">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css&logoColor=white" alt="CSS3" height="30">&nbsp;<img src="https://img.shields.io/badge/JavaScript-d69704?style=flat&logo=javascript&logoColor=white" alt="JavaScript" height="30">&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="30">&nbsp;<img src="https://img.shields.io/badge/React-00607a?style=flat&logo=react&logoColor=white" alt="React" height="30">&nbsp;<img src="https://img.shields.io/badge/Next.Js-292929?style=flat&logo=nextdotjs&logoColor=white" alt="Next.Js" height="30">&nbsp;<img src="https://img.shields.io/badge/Bootstrap 5-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" height="30">&nbsp;<img src="https://img.shields.io/badge/Tailwind CSS-007c91?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="30">&nbsp;</p>
+<p align="left"><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" height="30">&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" height="30">&nbsp;<img src="https://img.shields.io/badge/JavaScript-d69704?style=flat&logo=javascript&logoColor=white" alt="JavaScript" height="30">&nbsp;<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" height="30">&nbsp;<img src="https://img.shields.io/badge/React-00607a?style=flat&logo=react&logoColor=white" alt="React" height="30">&nbsp;<img src="https://img.shields.io/badge/Next.js-292929?style=flat&logo=nextdotjs&logoColor=white" alt="Next.js" height="30">&nbsp;<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite" height="30">&nbsp;<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" alt="Bootstrap" height="30">&nbsp;<img src="https://img.shields.io/badge/Tailwind%20CSS-007c91?style=flat&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="30"></p>
 <!-------------------------------------------------------------------------------------------------------------------->
+
+<hr>
+
+### 🖥️ Desktop Development
+<p align="left"><img src="https://img.shields.io/badge/Wails-DF5623?style=flat&logo=wails&logoColor=white" alt="Wails" height="30"></p>
 
 <!--Mobile Developnebt-->
 <hr>
 
 ### 📱 Mobile Development
-<p align="left"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" height="30">&nbsp;<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" height="30"></p>
+<p align="left"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" height="30">&nbsp;<img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" alt="Dart" height="30">&nbsp;<img src="https://img.shields.io/badge/Riverpod-00A5E3?style=flat&logo=riverpod&logoColor=white" alt="Riverpod" height="30">&nbsp;<img src="https://img.shields.io/badge/go__router-02569B?style=flat&logo=flutter&logoColor=white" alt="go_router" height="30">&nbsp;<img src="https://img.shields.io/badge/Kotlin-Android-3DDC84?style=flat&logo=kotlin&logoColor=white" alt="Kotlin Android" height="30">&nbsp;<img src="https://img.shields.io/badge/Swift-iOS-7F52FF?style=flat&logo=swift&logoColor=white" alt="Swift iOS" height="30">&nbsp;<img src="https://img.shields.io/badge/Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white" alt="Capacitor" height="30">&nbsp;<img src="https://img.shields.io/badge/Android%20SDK-3DDC84?style=flat&logo=android&logoColor=white" alt="Android SDK" height="30"></p>
 <!-------------------------------------------------------------------------------------------------------------------->
 
 <!--DB and Backend Services-->
@@ -144,7 +149,7 @@
 
 ### 🗄️ Databases & Backend Services
 
-<p align="left"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logoColor=white" alt="Microsoft SQL Server" height="30">&nbsp;<img src="https://img.shields.io/badge/Firebase-cc2e06?style=flat&logo=firebase&logoColor=white" alt="Firebase" height="30">&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="30">&nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" height="30"></p>
+<p align="left"><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat&logoColor=white" alt="Microsoft SQL Server" height="30">&nbsp;<img src="https://img.shields.io/badge/Firebase-cc2e06?style=flat&logo=firebase&logoColor=white" alt="Firebase" height="30">&nbsp;<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" height="30">&nbsp;<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30">&nbsp;<img src="https://img.shields.io/badge/Neon-00E599?style=flat&logo=neon&logoColor=white" alt="Neon" height="30">&nbsp;<img src="https://img.shields.io/badge/Payload%20CMS-000000?style=flat&logo=payloadcms&logoColor=white" alt="Payload CMS" height="30">&nbsp;<img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat&logo=drizzle&logoColor=black" alt="Drizzle ORM" height="30">&nbsp;<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="SQLite" height="30"></p>
 <!-------------------------------------------------------------------------------------------------------------------->
 
 <!--GenAI & Dev Tools-->
@@ -164,18 +169,8 @@
 
 ###
 
-<br>
-<div align="center">
-  <img
-    width="98%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=egesoysal&bg_color=0D1117&color=C9D1D9&title_color=F77931&line=F77931&point=F77931&area=true&area_color=F77931&hide_border=true&radius=12&custom_title=Contribution%20Activity"
-    alt="Ege Soysal Contribution Activity"
-  >
-</div>
-
 
 <!--                         FOOTER                         -->
 <!-- ====================================================== -->
 
 <br>
-
